@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "193794055399",
+    "project_id": "car4u-b2678",
+    "storage_bucket": "car4u-b2678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193794055399:android:300ad3a07ebda671b49642",
+        "android_client_info": {
+          "package_name": "com.example.car4u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdZKyMweVHrAJj3fJbYYj0pEViA8ccSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
